@@ -1,5 +1,6 @@
+#This decrypts code that was encrypted using the key here.
 text = 'mrttaqrhknsw ih puggrur'
-custom_key = 'python'
+custom_key = 'happycoding'
 
 def vigenere(message, key, direction=1):
     key_index = 0
